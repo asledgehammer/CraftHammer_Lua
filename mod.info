@@ -1,0 +1,5 @@
+name=CraftHammer Lua
+poster=poster.png
+description=CraftHammer Lua
+id=crafthammer_lua
+require=asledgehammer_lua_commons

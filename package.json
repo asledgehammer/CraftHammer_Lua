@@ -1,0 +1,28 @@
+{
+  "name": "crafthammer_lua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tstl",
+    "dev": "tstl --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asledgehammer/CraftHammer_Lua.git"
+  },
+  "keywords": [
+    "crafthammer"
+  ],
+  "author": "asledgehammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asledgehammer/CraftHammer_Lua/issues"
+  },
+  "homepage": "https://github.com/asledgehammer/CraftHammer_Lua#readme",
+  "devDependencies": {
+    "typescript-to-lua": "^1.4.2",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {}
+}
